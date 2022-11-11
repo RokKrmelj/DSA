@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html style="background-color: green;font-size: 125%;"></style>
+
+<p style="color: purple">"Body element"</p>
+
+<div style=	"background-color:#964B00; border:3px solid red; widht:50%;padding:10px;
+font-family: 'Curier New', monospace">
+Neko Besedilo
+</div>
+
+
+<br>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <rect x="15" y="15" width="100" height="100" style="fill:green;stroke:blue;stroke-width:15;"></rect>
+    <text x="30" y="70" font-family="Verdana" font-size="35" fill="red">Rok</text>
+  </g>
+</svg>
+
+<iframe width="500" height="350" src="https://www.youtube.com/embed/9JRLCBb7qK8?autoplay=1" title="Gay Frogs (Alex Jones REMIX)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</html>
