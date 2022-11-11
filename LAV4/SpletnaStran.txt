@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html style="background-color: green;font-size: 125%;"></style>
 
-<p style="color: purple">"Body element"</p>
+The content of the <span style="color:purple">body element</span> is displayed in your browser.
 
-<div style=	"background-color:#964B00; border:3px solid red; widht:50%;padding:10px;
+
+<div style=	"background-color:#4a3806; border:3px solid red; widht:50%;padding:10px;
 font-family: 'Curier New', monospace">
 Neko Besedilo
 </div>
@@ -18,6 +19,5 @@ Neko Besedilo
 </svg>
 
 <iframe width="500" height="350" src="https://www.youtube.com/embed/9JRLCBb7qK8?autoplay=1" title="Gay Frogs (Alex Jones REMIX)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 </html>
